@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a06c8ccd-9e9f-4c12-b1d7-23966731acb1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/npm-container/.npm/package/npm-shrinkwrap.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/npm-container/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/npm-container/package.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/packages" afterPath="$PROJECT_DIR$/.meteor/packages" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tumblr-xxx-grab.iml" afterPath="$PROJECT_DIR$/.idea/tumblr-xxx-grab.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.meteor/versions" afterPath="$PROJECT_DIR$/.meteor/versions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a06c8ccd-9e9f-4c12-b1d7-23966731acb1" name="Default" comment="" />
     <ignored path="tumblr-xxx-grab.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
