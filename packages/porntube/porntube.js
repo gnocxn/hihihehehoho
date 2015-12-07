@@ -5,7 +5,7 @@ if (Meteor.isServer) {
             try {
                 var page = page || 0;
                 check(term, String);
-                var searchUrl = _.template('http://www.porntube.com/search?p=<%=page%>&q=<%=term%>');
+                var searchUrl = _.template('http://www.porntube.com/search?p=<%=page%>&q=<%=term%>&quality=hd');
                 var _term = s.words(term).join('+');
                 var rs = Async.runSync(function (done) {
                     var Xray = Meteor.npmRequire('x-ray'),
@@ -16,6 +16,7 @@ if (Meteor.isServer) {
                             {
                                 id : 'button@data-video-uuid',
                                 thumbnail : '.thumb img@data-master',
+                                title : '.thumb img@alt',
                                 href : 'a@href'
                             }
                         ])

@@ -16,6 +16,7 @@ if (Meteor.isServer) {
                             {
                                 id: 'a.thumb_click img@id',
                                 thumbnail: 'a.thumb_click img@src',
+                                title : 'h1.mtitle@title',
                                 href: 'a.thumb_click@href'
                             }
                         ])

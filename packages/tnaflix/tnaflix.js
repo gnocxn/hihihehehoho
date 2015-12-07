@@ -16,6 +16,7 @@ if (Meteor.isServer) {
                             {
                                 id: '@id',
                                 thumbnail: 'a.videoThumb img@src',
+                                title: 'a.videoThumb img@alt',
                                 href: 'a.videoThumb@href'
                             }
                         ])
