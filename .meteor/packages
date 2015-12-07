@@ -21,10 +21,8 @@ arillo:flow-router-helpers
 kadira:blaze-layout
 manuel:viewmodel
 twbs:bootstrap
-meteorhacks:npm
 
 
-npm-container
 froatsnook:request
 meteorhacks:async
 underscorestring:underscore.string
